@@ -11,7 +11,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 # Download tokenizer
 nltk.download("punkt")
-
+nltk.download('punkt_tab')
 # -----------------------------
 # Load FAQ Dataset
 # -----------------------------
